@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/monishwaran093-droid/leethcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/monishwaran093-droid/leethcode/tree/master/0704-binary-search) |
 | [0821-shortest-distance-to-a-character](https://github.com/monishwaran093-droid/leethcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0977-squares-of-a-sorted-array](https://github.com/monishwaran093-droid/leethcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/monishwaran093-droid/leethcode/tree/master/0392-is-subsequence) |
 | [0821-shortest-distance-to-a-character](https://github.com/monishwaran093-droid/leethcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0917-reverse-only-letters](https://github.com/monishwaran093-droid/leethcode/tree/master/0917-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/monishwaran093-droid/leethcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/monishwaran093-droid/leethcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/monishwaran093-droid/leethcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/monishwaran093-droid/leethcode/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/monishwaran093-droid/leethcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
