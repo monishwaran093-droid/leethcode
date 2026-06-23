@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/monishwaran093-droid/leethcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/monishwaran093-droid/leethcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/monishwaran093-droid/leethcode/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/monishwaran093-droid/leethcode/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/monishwaran093-droid/leethcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/monishwaran093-droid/leethcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/monishwaran093-droid/leethcode/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/monishwaran093-droid/leethcode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
