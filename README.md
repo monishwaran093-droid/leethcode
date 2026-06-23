@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/monishwaran093-droid/leethcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/monishwaran093-droid/leethcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/monishwaran093-droid/leethcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/monishwaran093-droid/leethcode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/monishwaran093-droid/leethcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/monishwaran093-droid/leethcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/monishwaran093-droid/leethcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/monishwaran093-droid/leethcode/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/monishwaran093-droid/leethcode/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/monishwaran093-droid/leethcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
