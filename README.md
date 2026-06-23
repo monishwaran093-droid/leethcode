@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/monishwaran093-droid/leethcode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/monishwaran093-droid/leethcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/monishwaran093-droid/leethcode/tree/master/0704-binary-search) |
+| [0821-shortest-distance-to-a-character](https://github.com/monishwaran093-droid/leethcode/tree/master/0821-shortest-distance-to-a-character) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/monishwaran093-droid/leethcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/monishwaran093-droid/leethcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/monishwaran093-droid/leethcode/tree/master/0392-is-subsequence) |
+| [0821-shortest-distance-to-a-character](https://github.com/monishwaran093-droid/leethcode/tree/master/0821-shortest-distance-to-a-character) |
 ## Sorting
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/monishwaran093-droid/leethcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/monishwaran093-droid/leethcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/monishwaran093-droid/leethcode/tree/master/0392-is-subsequence) |
+| [0821-shortest-distance-to-a-character](https://github.com/monishwaran093-droid/leethcode/tree/master/0821-shortest-distance-to-a-character) |
 ## Bit Manipulation
 |  |
 | ------- |
