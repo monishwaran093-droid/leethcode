@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/monishwaran093-droid/leethcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/monishwaran093-droid/leethcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/monishwaran093-droid/leethcode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/monishwaran093-droid/leethcode/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,11 +51,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/monishwaran093-droid/leethcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/monishwaran093-droid/leethcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/monishwaran093-droid/leethcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/monishwaran093-droid/leethcode/tree/master/0389-find-the-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/monishwaran093-droid/leethcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/monishwaran093-droid/leethcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/monishwaran093-droid/leethcode/tree/master/0389-find-the-difference) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/monishwaran093-droid/leethcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/monishwaran093-droid/leethcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/monishwaran093-droid/leethcode/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/monishwaran093-droid/leethcode/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
