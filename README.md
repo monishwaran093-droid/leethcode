@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/monishwaran093-droid/leethcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/monishwaran093-droid/leethcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/monishwaran093-droid/leethcode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/monishwaran093-droid/leethcode/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/monishwaran093-droid/leethcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/monishwaran093-droid/leethcode/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/monishwaran093-droid/leethcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/monishwaran093-droid/leethcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/monishwaran093-droid/leethcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/monishwaran093-droid/leethcode/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
