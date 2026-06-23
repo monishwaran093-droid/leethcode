@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/monishwaran093-droid/leethcode/tree/master/1672-richest-customer-wealth) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/monishwaran093-droid/leethcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/monishwaran093-droid/leethcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/monishwaran093-droid/leethcode/tree/master/2798-number-of-employees-who-met-the-target) |
 ## Two Pointers
 |  |
 | ------- |
