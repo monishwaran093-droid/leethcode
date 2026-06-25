@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/monishwaran093-droid/leethcode/tree/master/0704-binary-search) |
 | [0821-shortest-distance-to-a-character](https://github.com/monishwaran093-droid/leethcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0977-squares-of-a-sorted-array](https://github.com/monishwaran093-droid/leethcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/monishwaran093-droid/leethcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/monishwaran093-droid/leethcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/monishwaran093-droid/leethcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/monishwaran093-droid/leethcode/tree/master/1672-richest-customer-wealth) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/monishwaran093-droid/leethcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/monishwaran093-droid/leethcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/monishwaran093-droid/leethcode/tree/master/0704-binary-search) |
+| [1004-max-consecutive-ones-iii](https://github.com/monishwaran093-droid/leethcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/monishwaran093-droid/leethcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Hash Table
 |  |
@@ -127,10 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/monishwaran093-droid/leethcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/monishwaran093-droid/leethcode/tree/master/1480-running-sum-of-1d-array) |
 ## Sliding Window
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/monishwaran093-droid/leethcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/monishwaran093-droid/leethcode/tree/master/0567-permutation-in-string) |
+| [1004-max-consecutive-ones-iii](https://github.com/monishwaran093-droid/leethcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
