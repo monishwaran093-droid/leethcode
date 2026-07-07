@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/monishwaran093-droid/leethcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/monishwaran093-droid/leethcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/monishwaran093-droid/leethcode/tree/master/0392-is-subsequence) |
 ## String
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/monishwaran093-droid/leethcode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/monishwaran093-droid/leethcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/monishwaran093-droid/leethcode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/monishwaran093-droid/leethcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -149,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/monishwaran093-droid/leethcode/tree/master/0980-unique-paths-iii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/monishwaran093-droid/leethcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
