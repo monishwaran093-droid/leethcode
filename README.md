@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/monishwaran093-droid/leethcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/monishwaran093-droid/leethcode/tree/master/0567-permutation-in-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/monishwaran093-droid/leethcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0844-backspace-string-compare](https://github.com/monishwaran093-droid/leethcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/monishwaran093-droid/leethcode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/monishwaran093-droid/leethcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/monishwaran093-droid/leethcode/tree/master/1768-merge-strings-alternately) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/monishwaran093-droid/leethcode/tree/master/0567-permutation-in-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/monishwaran093-droid/leethcode/tree/master/0821-shortest-distance-to-a-character) |
 | [0824-goat-latin](https://github.com/monishwaran093-droid/leethcode/tree/master/0824-goat-latin) |
+| [0844-backspace-string-compare](https://github.com/monishwaran093-droid/leethcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/monishwaran093-droid/leethcode/tree/master/0917-reverse-only-letters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/monishwaran093-droid/leethcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/monishwaran093-droid/leethcode/tree/master/1768-merge-strings-alternately) |
@@ -158,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/monishwaran093-droid/leethcode/tree/master/0062-unique-paths) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/monishwaran093-droid/leethcode/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/monishwaran093-droid/leethcode/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
