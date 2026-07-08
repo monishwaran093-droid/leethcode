@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/monishwaran093-droid/leethcode/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/monishwaran093-droid/leethcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/monishwaran093-droid/leethcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/monishwaran093-droid/leethcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/monishwaran093-droid/leethcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/monishwaran093-droid/leethcode/tree/master/0063-unique-paths-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/monishwaran093-droid/leethcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/monishwaran093-droid/leethcode/tree/master/0392-is-subsequence) |
 ## String
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/monishwaran093-droid/leethcode/tree/master/0063-unique-paths-ii) |
 | [0980-unique-paths-iii](https://github.com/monishwaran093-droid/leethcode/tree/master/0980-unique-paths-iii) |
 | [1672-richest-customer-wealth](https://github.com/monishwaran093-droid/leethcode/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
