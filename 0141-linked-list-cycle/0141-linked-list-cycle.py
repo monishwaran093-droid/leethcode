@@ -11,4 +11,5 @@ class Solution:
             s=s.next
             f=f.next.next
             if s==f:
-                return f
+                return True
+        return False
